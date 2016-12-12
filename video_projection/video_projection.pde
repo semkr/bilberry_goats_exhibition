@@ -1,8 +1,9 @@
 /******************************
-*
-*
-*
-*
+* - Bilberry Goats Exhibition -
+* SOMA Gallery Waterford City
+* January 2017
+* South East Makerspace
+* Licence: Apache 2.0
 ******************************/
 
 import processing.video.*;

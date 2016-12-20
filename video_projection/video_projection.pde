@@ -14,7 +14,7 @@ import processing.serial.*;
 
 import processing.video.*;
 
-ovie myMovie1, myMovie2, myMovie3, myMovie4;
+Movie myMovie1, myMovie2, myMovie3, myMovie4;
 boolean isPlaying1, isPlaying2, isPlaying3, isPlaying4;
 Serial myPort;  // Create object from Serial class
 String val;     // Data received from the serial port

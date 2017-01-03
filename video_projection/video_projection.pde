@@ -44,17 +44,23 @@ void draw() {
   // if (mousePressed == true){ noCursor(); } // Hide the cursor when the left mouse button is pressed
   noCursor();
   
-  if ( myPort.available() > 0) 
-  {  // If data is available,
-    val = myPort.readStringUntil('\n');         // read it and store it in val
-    String[] list = split(val, ',');
-    if(list != null && list.length == 4){
-      if(list[0].equals("1")){ isPlaying1 = true; } else { isPlaying1 = false; }
-      if(list[1].equals("1")){ isPlaying2 = true; } else { isPlaying2 = false; }
-      if(list[2].equals("1")){ isPlaying3 = true; } else { isPlaying3 = false; }
-      if(list[3].equals("1")){ isPlaying4 = true; } else { isPlaying4 = false; }
+  try {
+    if ( myPort.available() > 0) 
+    {  // If data is available,
+      val = myPort.readStringUntil('\n');         // read it and store it in val
+      String[] list = split(val, ',');
+      list = trim(list);
+      println(list);
+      if(list != null && list.length == 4){
+        if(list[0].equals("1")){ isPlaying1 = true; } else { isPlaying1 = false; }
+        if(list[1].equals("1")){ isPlaying2 = true; } else { isPlaying2 = false; }
+        if(list[2].equals("1")){ isPlaying3 = true; } else { isPlaying3 = false; }
+        if(list[3].equals("1")){ isPlaying4 = true; } else { isPlaying4 = false; }
+      }
     }
-  } 
+  } catch(Exception e) {
+    e.printStackTrace();
+  }
   delay(100);
 
   if(isPlaying1){

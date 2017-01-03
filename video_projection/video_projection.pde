@@ -48,8 +48,8 @@ void draw() {
     if ( myPort.available() > 0) 
     {  // If data is available,
       val = myPort.readStringUntil('\n');         // read it and store it in val
-      String[] list = split(val, ',');
-      list = trim(list);
+      String[] list = trim(split(val, ','));
+      
       println(list);
       if(list != null && list.length == 4){
         if(list[0].equals("1")){ isPlaying1 = true; } else { isPlaying1 = false; }

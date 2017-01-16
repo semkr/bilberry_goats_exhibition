@@ -1,11 +1,10 @@
-/**
- * trashtalk - Interactive Rubbish Bin
- * 
- * A South East Makerspace project developed for the Waterford Imagine Festival 2016 
- * Github: https://github.com/semkr/digistreets
- * Wiki: https://wiki.southeastmakerspace.org/projects/digistreets/talking_rubbish/start
- * Version: 0.1.0
- */
+/******************************
+* Bilberry Goats Exhibition
+* SOMA Gallery Waterford City
+* January 2017
+* South East Makerspace 
+* Licence: GPL 3.0
+******************************/
 
 #define SENSOR_1  2
 #define SENSOR_2  3

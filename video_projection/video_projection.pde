@@ -5,13 +5,8 @@ import processing.serial.*;
 * SOMA Gallery Waterford City
 * January 2017
 * South East Makerspace 
-* Licence: Apache 2.0
+* Licence: GPL 3.0
 ******************************/
-
-// Goat Files 1080 x 1440
-// Sony Projector resolution 1024 x 768
-// Hitachio 1920 x 1080
-
 import processing.video.*;
 
 Movie myMovie1, myMovie2, myMovie3, myMovie4;

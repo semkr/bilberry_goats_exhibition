@@ -1,1 +1,3 @@
 == Pir Motion Sensor ==
+
+image::fritzing_diagram_bb.png[Fritzing,600,350, align="center"]

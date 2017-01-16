@@ -29,3 +29,9 @@ creative practitioners can meet to work on individual and joint projects. http:/
 
 Grateful thanks to the Bilberry Goat Heritage Trust for providing the information on this Waterford’s Bilberry Goats
 exhibition. http://www.bilberrygoatheritagetrust.com[Bilberry Goat Heritage Trust]
+
+=== Licence ===
+The following licences are in effect:
+
+- Art released under the Creative Commons Non Commerical 4.0 licence
+- Code released under the GPL 3.0 licence

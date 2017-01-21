@@ -1,17 +1,37 @@
-== Bilberry Goats Exhibition ==
-Exhibition at the SOMA Gallery Waterford City January 2017 by artist Marie Lee and members of the
-South East Makerspace.
+== Waterford’s Bilberry Goats ==
+*This exhibition Waterford's Bilberry Goats is part of a group exhibition called _The Graduate_ which will open in  the
+GOMA Gallery Of Modern Art at  6.30pm the 19th January, 2017 and will run till the 23rd February.*
 
-=== Contributors ===
-The following were involved in the development of this exhibition.
+*Please come along everyone is welcome.*
 
-- Aileen Drohan
-- Paula Kenneally
-- David Kirwan
-- Marie Lee
-- Podge Murphy
+image::exhibition/BilberryGoats1.jpg[Tux,600,350, align="center"]
 
-=== Links ===
+_Oil paint on glass animation.  Interactive video installation, video projections, Infra-red proximity sensors,
+arduinos, light-emitting diodes, 38mm pvc pipe, vinyl, dimensions variable._
 
-- https://en.wikipedia.org/wiki/Bilberry_goat
-- https://www.southeastmakerspace.org
+Waterford City has a rare treasure which is unique in the world, the last of an ancient breed of wild goat called
+the Bilberry Goats. They are a landrace and wild species which means that without the freedom to roam on their original
+habitat in the Bilberry area, which has particular minerals and vegetation the goats will become extinct.
+Waterford’s majestic and beautiful Bilberry Goats who have lived in Waterford city for centuries are now an endangered
+species as their habitat is inadequate.
+
+The videos are activated by sensors which register the warmth of the human body.  By engaging and caring about the
+Bilberry Goats, the people of Waterford will protect this precious part of their heritage for generations to come.
+The video images are fleeting, referencing how precarious Waterford’s Bilberry Goats survival stands at present.
+Their original habitat has been reduced to a small piece of rented land which is not adequate for this wild goat species.
+This piece of land is highlighted in black in the light projection on the ground.  The area in white is the remainder
+of the Bilberry Goats original habitat which they need to roam and graze on, in order to survive.
+
+This work is a collaboration between artist Marie Lee, who painted the animations (marielee2011@gmail.com), and members
+of South East Makerspace (SEMS), Aileen Drohan, Paula Kenneally, Dave Kilkenny, David Kirwan and Podge Murphy who have
+skills in digital art, coding, engineering, electronics and physics.  SEMS is a club and shared workspace where
+creative practitioners can meet to work on individual and joint projects. http://www.southeastmakerspace.org[South East Makerspace]
+
+Grateful thanks to the Bilberry Goat Heritage Trust for providing the information on this Waterford’s Bilberry Goats
+exhibition. http://www.bilberrygoatheritagetrust.com[Bilberry Goat Heritage Trust]
+
+=== Licence ===
+The following licences are in effect:
+
+- Art released under the Creative Commons Non Commerical 4.0 licence
+- Code released under the GPL 3.0 licence

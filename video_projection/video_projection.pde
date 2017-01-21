@@ -38,7 +38,8 @@ void draw() {
     if ( myPort.available() > 0) 
     {  // If data is available,
       val = myPort.readStringUntil('\n');         // read it and store it in val
-      if(val.equals("1")){ isPlaying1 = true; isPlaying2 = true;} else { isPlaying1 = false; isPlaying2 = false; }
+      println(val);
+      if(val.trim().equals("1")){ isPlaying1 = true; isPlaying2 = true;} else { isPlaying1 = false; isPlaying2 = false; }
     }
   } catch(Exception e) {
     e.printStackTrace();
